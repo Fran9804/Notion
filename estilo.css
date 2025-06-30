@@ -4,16 +4,15 @@ body {
   align-items: center;
   height: 100%;
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-color: #386f31;
 }
 
 #countLabel{
-  font-size: 10vw;
-  margin-bottom: 2vh;
+  font-size: 25vw;
+  margin-bottom: 1vh;
 
   display: block;
   text-align: center;
-  font-size: 10em;
   font-family: Helvetica;
 }
 
@@ -24,24 +23,23 @@ body {
 
   padding: 1px 30px;
   font-size: 1.5em;
-  background-color: #386f31;
   border-color: transparent;
   border-radius: 10px;
   cursor: pointer;
 }
 
 #btn{
-  display: flex;
+  display: block;
   justify-content: space-around;
   flex-wrap: wrap;
 
-  padding: 20px;
+  padding: 10px;
   text-align: center;
 }
 
 .button{
-  font-size: 4vw;
-  padding: 1vh 2vw;
+  font-size: 10vh;
+  padding: 1vh 2vh;
   margin: 0.5vh;
 
   background-color: #3a8d2f;
