@@ -8,7 +8,7 @@ body {
 }
 
 #countLabel{
-  font-size: 25vw;
+  font-size: 90px;
   margin-bottom: 1vh;
 
   display: block;
@@ -33,12 +33,11 @@ body {
   justify-content: space-around;
   flex-wrap: wrap;
 
-  padding: 10px;
   text-align: center;
 }
 
 .button{
-  font-size: 10vh;
+  font-size: 20px;
   padding: 1vh 2vh;
   margin: 0.5vh;
 
