@@ -19,7 +19,9 @@ body {
 #container{
   text-align: center;
   width: 80vw;
-  max-width: 500px;
+  max-width: 200px;
+  height: 80vw;
+  max-height: 110px;
 
   padding: 1px 30px;
   font-size: 1.5em;
